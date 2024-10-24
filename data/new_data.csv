@@ -1,0 +1,137 @@
+Type,Age,Gender,MaturitySize,FurLength,Vaccinated,Dewormed,Sterilized,Health,Quantity,Fee,VideoAmt,PhotoAmt,ColorName_x,ColorName_y,ColorName,BreedName_x,BreedName_y,StateName_x
+2,5,3.0,2.0,2,2,2,2,1,3,0,0,12.0,Cream,Gray,White,Domestic Medium Hair,Domestic Short Hair,Selangor
+1,3,3.0,2.0,1,3,3,3,1,2,0,0,5.0,Golden,Cream,White,Mixed Breed,Mixed Breed,Selangor
+1,36,1.0,2.0,2,1,1,1,1,1,200,0,2.0,Black,Cream,Gray,Terrier,Poodle,Selangor
+2,0,1.0,2.0,1,2,2,2,1,1,0,0,10.0,Black,Gray,White,Domestic Short Hair,Tabby,Kuala Lumpur
+1,1,3.0,3.0,1,1,1,2,1,7,0,5,30.0,Black,Brown,Golden,Mixed Breed,Mixed Breed,Selangor
+2,2,2.0,,1,2,1,2,1,1,0,0,1.0,Black,Golden,,Bengal,Bengal,Selangor
+2,4,2.0,2.0,3,3,3,2,1,1,0,0,1.0,Cream,Gray,White,Norwegian Forest Cat,Silver,Kuala Lumpur
+1,2,2.0,3.0,1,3,3,3,1,3,0,0,1.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+2,1,1.0,2.0,2,2,1,2,1,1,0,0,8.0,Black,Brown,White,Domestic Medium Hair,Tabby,Selangor
+2,1,3.0,2.0,1,2,1,2,1,3,0,0,26.0,Black,Brown,Gray,,,Kuala Lumpur
+2,5,2.0,2.0,1,2,2,2,1,2,0,0,3.0,Black,Gray,White,,,Selangor
+1,1,3.0,2.0,2,2,2,1,1,5,0,0,12.0,Brown,Cream,White,Mixed Breed,Mixed Breed,Selangor
+2,1,2.0,2.0,2,2,2,2,1,1,0,0,8.0,Black,Yellow,White,Domestic Medium Hair,Domestic Medium Hair,Kuala Lumpur
+1,72,1.0,,3,1,1,1,1,1,200,0,9.0,Black,Gray,,Shih Tzu,Silky Terrier,Selangor
+2,12,2.0,1.0,2,1,1,2,1,1,0,0,1.0,Brown,Yellow,Cream,Tortoiseshell,Tortoiseshell,Selangor
+1,6,2.0,2.0,2,1,1,2,1,2,1,0,7.0,Black,Brown,White,,,Selangor
+1,5,2.0,2.0,1,1,2,2,1,1,100,0,1.0,Black,Brown,Cream,Belgian Shepherd Malinois,Mixed Breed,Selangor
+2,3,3.0,1.0,2,2,2,3,1,2,150,0,1.0,Black,Brown,White,Domestic Medium Hair,Siamese,Perak
+1,6,1.0,,2,1,1,2,1,1,0,0,4.0,Black,Brown,,Belgian Shepherd Malinois,Mixed Breed,Perak
+2,12,1.0,3.0,3,1,1,1,1,1,0,0,2.0,Black,Gray,White,Domestic Long Hair,Domestic Medium Hair,Selangor
+1,2,3.0,2.0,2,3,3,3,1,4,0,0,4.0,Black,Brown,White,Mixed Breed,Mixed Breed,Melaka
+1,1,2.0,2.0,1,2,1,2,1,1,100,0,6.0,Black,Brown,White,Spitz,Mixed Breed,Selangor
+2,6,3.0,2.0,1,1,1,3,1,3,150,0,4.0,Black,Brown,Cream,Siamese,Domestic Short Hair,Kuala Lumpur
+1,4,1.0,2.0,1,3,1,2,1,1,0,1,11.0,Black,Cream,White,Dachshund,Dalmatian,Perak
+2,1,1.0,2.0,3,2,2,2,1,3,0,0,5.0,Black,Brown,White,Domestic Long Hair,Domestic Short Hair,Selangor
+1,36,2.0,2.0,1,1,1,1,1,1,0,0,5.0,Black,Brown,White,Doberman Pinscher,Mixed Breed,Selangor
+1,3,3.0,2.0,1,1,1,3,1,3,0,0,2.0,Black,Brown,White,Mixed Breed,Labrador Retriever,Pulau Pinang
+1,1,3.0,2.0,2,2,2,2,1,4,50,0,11.0,Brown,Cream,White,Labrador Retriever,Mixed Breed,Selangor
+2,2,2.0,,2,2,1,2,1,2,100,0,10.0,Black,Gray,,Domestic Short Hair,Domestic Medium Hair,Selangor
+1,4,1.0,,1,1,1,1,1,1,0,0,5.0,Black,Brown,,,Mixed Breed,Selangor
+1,84,2.0,2.0,1,1,1,1,1,1,0,0,1.0,Black,Brown,White,German Shepherd Dog,Mixed Breed,Selangor
+2,84,2.0,2.0,2,3,3,1,1,1,50,0,3.0,Black,Yellow,White,Persian,Domestic Medium Hair,Selangor
+2,1,2.0,1.0,1,2,2,2,1,1,20,0,5.0,Black,Brown,White,Domestic Short Hair,Domestic Short Hair,Selangor
+2,60,2.0,3.0,3,1,1,1,1,1,0,0,2.0,Brown,Cream,Gray,Persian,Domestic Long Hair,Terengganu
+2,8,1.0,3.0,1,2,1,2,1,1,50,0,5.0,Golden,Yellow,White,Domestic Long Hair,Domestic Short Hair,Selangor
+2,3,2.0,1.0,1,2,2,2,1,1,0,0,4.0,Black,Yellow,White,Domestic Short Hair,Siamese,Kuala Lumpur
+1,1,3.0,2.0,1,2,1,2,1,3,0,2,28.0,Black,Cream,White,Mixed Breed,Mixed Breed,Selangor
+2,2,2.0,1.0,2,2,2,2,1,1,100,0,2.0,Brown,Cream,White,Siamese,Domestic Medium Hair,Selangor
+2,1,,2.0,1,2,2,2,1,5,0,0,6.0,Black,Gray,,Persian,Domestic Medium Hair,Kuala Lumpur
+1,2,1.0,2.0,2,1,1,2,1,1,0,0,5.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+1,2,2.0,2.0,1,3,3,2,1,5,0,0,0.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+2,2,3.0,2.0,2,2,1,2,1,3,0,0,5.0,Black,Cream,White,Domestic Medium Hair,Tabby,Selangor
+2,3,2.0,2.0,2,2,1,2,1,1,0,0,0.0,Golden,Yellow,Cream,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+2,60,1.0,2.0,3,1,1,1,3,1,0,0,14.0,Golden,Cream,White,Persian,Domestic Short Hair,Kuala Lumpur
+1,3,2.0,1.0,1,3,3,3,1,1,0,0,1.0,Black,Brown,Golden,Mixed Breed,Mixed Breed,Kuala Lumpur
+1,12,2.0,2.0,2,2,2,2,1,1,0,0,1.0,Brown,Golden,Cream,Terrier,Mixed Breed,Selangor
+2,2,3.0,1.0,1,2,2,2,1,3,0,0,5.0,Black,Cream,Gray,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+2,4,3.0,1.0,1,1,1,2,1,4,0,0,4.0,Brown,Yellow,Gray,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+1,2,2.0,2.0,1,1,1,2,1,1,0,0,3.0,Black,Brown,White,Beagle,Mixed Breed,Selangor
+2,5,1.0,,3,1,1,2,1,1,0,0,5.0,Black,Gray,,Persian,Domestic Long Hair,Selangor
+1,2,3.0,2.0,1,1,1,2,1,2,200,0,2.0,Black,Brown,White,Mixed Breed,Doberman Pinscher,Selangor
+1,1,3.0,1.0,2,3,3,3,1,6,0,0,2.0,Black,Brown,Cream,,,Pulau Pinang
+1,9,2.0,2.0,1,2,1,1,1,1,0,0,2.0,Black,Yellow,White,Pointer,Mixed Breed,Kuala Lumpur
+1,2,3.0,2.0,1,1,1,2,1,4,0,0,5.0,Brown,Golden,White,Mixed Breed,Labrador Retriever,Selangor
+2,3,2.0,2.0,2,2,1,2,1,1,50,0,4.0,Black,Yellow,White,Domestic Medium Hair,Persian,Selangor
+1,4,2.0,2.0,1,1,1,2,1,1,0,0,3.0,Black,Brown,White,Mixed Breed,Dalmatian,Perak
+2,6,2.0,2.0,3,2,2,2,1,1,0,0,5.0,Black,Brown,White,Domestic Long Hair,Calico,Selangor
+1,3,2.0,2.0,1,2,2,2,1,1,0,0,4.0,Black,Brown,Yellow,Mixed Breed,Dachshund,Selangor
+2,1,3.0,1.0,1,2,2,2,1,5,0,0,5.0,Black,Gray,White,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+1,3,1.0,,2,1,1,2,1,1,0,0,2.0,Black,Gray,,Mixed Breed,Mixed Breed,Selangor
+2,36,2.0,2.0,2,1,1,1,1,1,0,1,2.0,Black,Yellow,White,Calico,Tortoiseshell,Selangor
+2,1,3.0,2.0,2,2,1,2,1,2,0,0,2.0,Brown,Golden,White,Domestic Short Hair,Domestic Short Hair,Selangor
+2,4,3.0,2.0,2,2,1,2,1,2,0,0,5.0,Black,Gray,White,Domestic Short Hair,Domestic Short Hair,Selangor
+2,2,3.0,1.0,1,2,1,2,1,5,0,0,14.0,Black,Brown,White,Domestic Short Hair,Domestic Medium Hair,Selangor
+2,2,1.0,1.0,2,2,1,2,1,1,0,0,4.0,Golden,Cream,White,Bengal,Domestic Medium Hair,Selangor
+2,1,2.0,2.0,3,3,3,3,1,1,0,0,3.0,Yellow,Cream,White,Abyssinian,American Curl,Selangor
+1,36,2.0,2.0,2,3,3,3,1,1,0,0,4.0,Black,Brown,Yellow,Spitz,Mixed Breed,Kuala Lumpur
+2,8,1.0,2.0,2,1,1,3,1,1,100,0,5.0,Black,Gray,White,Egyptian Mau,Egyptian Mau,Johor
+1,0,3.0,2.0,2,2,2,2,1,7,0,0,1.0,Black,Brown,Yellow,Mixed Breed,Mixed Breed,Kuala Lumpur
+1,1,2.0,2.0,2,1,1,2,1,1,0,0,1.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+1,24,1.0,,3,1,1,2,1,1,250,0,1.0,Black,Brown,,Shih Tzu,Shih Tzu,Johor
+1,1,2.0,,1,2,1,2,1,1,0,0,2.0,Black,Brown,,Mixed Breed,Mixed Breed,Johor
+2,2,3.0,1.0,2,1,1,2,1,3,0,0,4.0,Brown,Gray,White,Domestic Long Hair,Maine Coon,Kuala Lumpur
+2,2,1.0,1.0,1,2,1,2,1,1,0,0,14.0,Black,Gray,White,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+1,4,2.0,3.0,2,1,1,2,1,1,0,1,21.0,Golden,Cream,White,Golden Retriever,Terrier,Selangor
+1,5,2.0,2.0,1,1,1,2,1,1,0,0,2.0,Black,Brown,White,Mixed Breed,Jack Russell Terrier,Selangor
+2,10,2.0,2.0,1,1,1,1,1,1,0,0,2.0,Black,Yellow,White,Domestic Short Hair,Tortoiseshell,Selangor
+1,5,3.0,2.0,2,1,1,1,1,15,0,0,11.0,Black,Brown,White,Mixed Breed,Mixed Breed,Pulau Pinang
+1,1,2.0,2.0,1,2,2,2,1,1,0,0,1.0,Black,Yellow,White,Labrador Retriever,Mixed Breed,Kedah
+1,3,3.0,,2,2,2,2,1,7,0,0,5.0,Black,Brown,,Mixed Breed,Mixed Breed,Kuala Lumpur
+1,4,1.0,2.0,2,1,1,2,1,1,0,0,4.0,Black,Brown,White,Mixed Breed,Smooth Fox Terrier,Negeri Sembilan
+2,2,3.0,2.0,2,2,2,2,1,2,0,0,4.0,Yellow,Cream,White,Domestic Medium Hair,Domestic Short Hair,Selangor
+1,84,1.0,1.0,1,1,1,2,1,2,0,0,11.0,Black,Brown,White,Miniature Pinscher,Shih Tzu,Selangor
+1,5,1.0,2.0,2,1,1,2,1,1,0,0,5.0,Black,Brown,White,Mixed Breed,Spitz,Perak
+2,1,3.0,,3,3,3,3,1,4,0,0,6.0,Yellow,Gray,,Domestic Medium Hair,Turkish Van,Negeri Sembilan
+2,9,1.0,3.0,3,1,1,1,1,1,0,0,3.0,Black,Gray,White,Persian,Domestic Medium Hair,Selangor
+2,3,1.0,2.0,1,2,1,2,1,3,0,0,5.0,Black,Brown,White,,,Selangor
+2,1,1.0,2.0,2,3,3,2,1,3,0,0,4.0,Black,Brown,White,Domestic Medium Hair,Domestic Short Hair,Selangor
+1,2,3.0,2.0,2,2,2,2,1,4,1,0,5.0,Black,Brown,Yellow,Mixed Breed,Mixed Breed,Selangor
+2,12,1.0,2.0,3,1,1,2,1,1,100,0,2.0,Brown,Cream,White,Siamese,Domestic Long Hair,Selangor
+1,13,2.0,,2,1,1,1,1,1,0,0,3.0,Black,Gray,,Schnauzer,Mixed Breed,Selangor
+2,11,1.0,3.0,1,1,3,3,1,1,0,0,0.0,Black,Brown,Golden,,,Selangor
+2,3,3.0,1.0,1,2,2,2,1,3,0,0,5.0,Black,Yellow,Gray,Domestic Short Hair,Domestic Short Hair,Selangor
+1,1,3.0,1.0,1,2,2,2,1,5,0,0,3.0,Black,Brown,Golden,Mixed Breed,Mixed Breed,Kuala Lumpur
+1,1,1.0,,2,1,1,2,1,1,0,0,1.0,Black,Brown,,Mixed Breed,Mixed Breed,Selangor
+2,8,2.0,2.0,1,2,2,1,1,1,0,0,6.0,Black,Brown,White,American Wirehair,Tiger,Selangor
+2,1,2.0,2.0,1,2,1,2,1,1,0,0,5.0,Cream,Gray,White,,,Selangor
+1,2,1.0,3.0,1,1,1,2,1,1,0,0,1.0,Black,Brown,White,Belgian Shepherd Malinois,Mixed Breed,Selangor
+1,1,1.0,2.0,2,2,1,2,1,2,0,0,5.0,Black,Brown,White,Rhodesian Ridgeback,Rottweiler,Selangor
+2,12,3.0,2.0,1,3,3,3,1,20,0,0,0.0,Cream,Gray,White,Domestic Short Hair,Domestic Medium Hair,Selangor
+1,5,3.0,2.0,1,1,1,2,1,2,0,0,5.0,Black,Cream,White,Mixed Breed,Mixed Breed,Selangor
+2,3,2.0,2.0,2,1,1,2,1,1,0,1,2.0,Black,Yellow,White,Calico,Domestic Medium Hair,Selangor
+2,0,3.0,2.0,1,3,3,3,1,7,0,0,4.0,Black,Gray,White,Domestic Medium Hair,Domestic Medium Hair,Selangor
+2,2,1.0,2.0,1,2,1,2,1,1,0,0,4.0,Black,Gray,White,Tabby,Bobtail,Kuala Lumpur
+1,2,3.0,2.0,2,3,3,3,1,5,0,0,18.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+2,2,2.0,2.0,3,2,1,2,1,1,550,0,5.0,Black,Yellow,White,Persian,Domestic Long Hair,Selangor
+2,5,3.0,1.0,2,1,1,2,1,3,120,0,9.0,Brown,Gray,White,Domestic Short Hair,Domestic Medium Hair,Selangor
+1,72,,2.0,3,1,1,1,1,1,0,6,24.0,Black,Brown,,Mixed Breed,Australian Cattle Dog/Blue Heeler,Selangor
+1,1,3.0,1.0,1,2,2,2,1,5,0,0,1.0,Black,Brown,Golden,Mixed Breed,Mixed Breed,Kuala Lumpur
+1,4,1.0,2.0,1,1,1,2,1,1,0,0,2.0,Brown,Cream,White,Mixed Breed,Mixed Breed,Selangor
+2,2,3.0,1.0,3,2,3,2,1,3,0,0,3.0,Black,Brown,Gray,Bengal,Domestic Long Hair,Selangor
+2,2,3.0,1.0,1,2,2,2,1,2,0,4,5.0,Black,Brown,Golden,Tortoiseshell,Domestic Short Hair,Selangor
+1,11,2.0,2.0,2,1,3,1,1,2,0,0,1.0,Black,Brown,White,Dalmatian,Mixed Breed,Pahang
+2,1,3.0,2.0,1,2,2,2,1,2,0,0,14.0,Brown,Golden,Gray,,,Kuala Lumpur
+2,2,2.0,2.0,3,2,2,2,1,1,0,0,13.0,Brown,Gray,White,,,Selangor
+2,31,2.0,2.0,2,1,1,2,1,2,0,0,23.0,Black,Golden,White,Calico,Domestic Medium Hair,Selangor
+2,3,1.0,2.0,1,1,1,2,1,1,0,1,4.0,Black,Gray,White,Domestic Short Hair,Domestic Short Hair,Selangor
+2,3,1.0,2.0,1,2,2,2,1,1,0,0,3.0,Golden,Yellow,Cream,,,Selangor
+2,11,,2.0,1,1,1,1,1,1,100,0,6.0,Black,Brown,,Tortoiseshell,Domestic Short Hair,Selangor
+1,2,3.0,2.0,2,2,2,2,1,6,0,0,1.0,Black,Brown,White,Mixed Breed,Mixed Breed,Johor
+1,1,2.0,2.0,1,2,2,2,1,1,0,0,4.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+2,2,2.0,1.0,1,2,1,2,1,1,0,0,10.0,Black,Golden,Cream,Tortoiseshell,Domestic Short Hair,Selangor
+1,1,3.0,2.0,1,2,2,2,1,3,80,0,13.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+2,1,3.0,2.0,2,2,2,2,1,2,0,0,2.0,Black,Gray,,,Domestic Short Hair,Selangor
+2,32,1.0,2.0,2,3,3,3,1,1,0,0,1.0,Black,Brown,White,Bengal,Oriental Short Hair,Kuala Lumpur
+2,1,3.0,2.0,1,3,3,3,1,3,30,0,3.0,Black,Gray,White,,,Johor
+1,1,2.0,2.0,1,2,2,2,1,1,0,0,3.0,Brown,Gray,White,Australian Kelpie,Mixed Breed,Pahang
+2,1,1.0,2.0,2,2,1,2,1,1,40,0,5.0,Golden,Cream,White,Domestic Medium Hair,Bengal,Selangor
+2,2,2.0,3.0,3,2,1,3,1,1,0,0,3.0,Black,Brown,Yellow,Domestic Long Hair,Domestic Long Hair,Selangor
+1,3,2.0,2.0,1,3,1,2,1,1,0,0,2.0,Golden,Cream,White,Labrador Retriever,Golden Retriever,Selangor
+2,2,,1.0,1,2,2,2,1,1,0,0,7.0,Black,Golden,,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+1,1,3.0,2.0,1,2,2,2,1,3,0,0,11.0,Black,Brown,White,Mixed Breed,Mixed Breed,Selangor
+2,28,1.0,2.0,1,1,1,1,1,1,0,0,7.0,Black,Gray,White,Domestic Short Hair,Domestic Short Hair,Pulau Pinang
+2,3,1.0,2.0,1,2,1,2,1,1,0,0,0.0,Brown,Golden,Yellow,Domestic Short Hair,Domestic Short Hair,Kuala Lumpur
+1,17,3.0,3.0,2,1,1,2,1,2,0,0,2.0,Black,Cream,White,Kuvasz,Husky,Kuala Lumpur
+2,2,3.0,2.0,1,2,2,2,1,4,0,0,8.0,Black,Gray,White,Domestic Short Hair,Domestic Short Hair,Selangor
